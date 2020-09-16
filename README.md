@@ -4,7 +4,7 @@ I have built an advanced custom macropad with one joystick, 2 mouse scroll rotar
 are breakout buttons - ie for foot pedals), 1 master switch and a reset button. 
 
 I used mouse scroll rotary encoders instead of the ones typically used in macropads as they are smaller and allowed me to implement a scroll wheel in the horizontal direction.
-Cherry MX brown switches were used for 15* the buttons. That is 12 + 2 + 1. Big shoutout to Cherry MX for creating such high quality switches.
+Cherry MX brown switches were used for 15* the buttons. That is 12 + 2 + 1. Great switches - I highly recommend them.
 
 As for the code and functionality, the macropad has up to 12 pages of functions and includes functions and/or libraries that I have created for automatically inputting Unicode via "unicodeinput.exe" and automatically drawing shapes with a the cursor on the press of a buttons. 
 
