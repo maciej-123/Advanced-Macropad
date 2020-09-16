@@ -18,47 +18,39 @@ https://github.com/NicoHood/HID
 The 12 pages include:
 
 -Special Characters for German, Spanish, Polish and French.äöüß ñ¿¡áéíóúü ąęłńżźśćó çœàâéêîïùûèë.
+
 -Mathematical signs and symbols such as ±∞√∝∑∫∮∗⨯∇∂≡≈π°∥⟂∀∴Δδ∠.
+
 -Controlling video games with multiple button presses. WASD joystick, scrolling to look around and macrokeys that can autoclick weapons at high speeds.
+
 -Automatically opening apps and websites with one buttons.
+
 -A Joystick mouse with 2 axis scrolling and macros such as triple click and buttons to accurately control cursor and scrolling.
+
 -Multimedia Control with Volume and Brightness control via buttons and rotary encoders, buttons for Play/Pause, Mute and joystick to rewind/fast forward video.
+
 -Generic controls such as Ctrl+C and Ctrl+V as well as Ctrl+W and Ctrl+Shift+T for opening and closing tabs in google chrome.
 
 
 Availible Joystick and Rotary Encoder Functions:
 
-   Joystick menu
-  
-   1 - mouse
-   
-   2 - wasd (gaming)
-   
-   3 - arrow
-   
-   4 - 2D scroll (vertical and horizontal)
-   
-   5 - Zoom and undo/redo
-   
+   Joystick menu  
+   1 - mouse   
+   2 - wasd (gaming) 
+   3 - arrow 
+   4 - 2D scroll (vertical and horizontal)   
+   5 - Zoom and undo/redo   
    6 - Window arrows (minimising, maximising and sorting out the positions of tabs.
    
 
    Rotary encoder menu
    
-   1 - vertical scroll
-   
-   2 - horizontal scroll
-   
-   3 - video forward/rewind
-   
-   4 - zoom in/out
-   
-   5 - undo/redo
-   
-   6 - mouse left right
-  
-   7 - mouse up down 
-   
-   8 - volume
-   
+   1 - vertical scroll  
+   2 - horizontal scroll 
+   3 - video forward/rewind   
+   4 - zoom in/out   
+   5 - undo/redo   
+   6 - mouse left right  
+   7 - mouse up down    
+   8 - volume   
    9 - brightness
