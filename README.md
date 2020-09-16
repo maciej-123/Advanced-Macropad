@@ -15,6 +15,9 @@ These libraries include NicoHood's HID-project Library. I thus attribute him and
 https://github.com/NicoHood/HID
 
 
+
+
+
 The 12 pages include:
 
 -Special Characters for German, Spanish, Polish and French.äöüß ñ¿¡áéíóúü ąęłńżźśćó çœàâéêîïùûèë.
@@ -32,7 +35,9 @@ The 12 pages include:
 -Generic controls such as Ctrl+C and Ctrl+V as well as Ctrl+W and Ctrl+Shift+T for opening and closing tabs in google chrome.
 
 
-Availible Joystick and Rotary Encoder Functions:
+
+
+Joystick and Rotary Encoder Functions:
 
    Joystick menu  
    1 - mouse   
