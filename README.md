@@ -39,7 +39,7 @@ The 12 pages include:
 
 Joystick and Rotary Encoder Functions:
 
-   Joystick menu  
+   Joystick menu:  
    1 - mouse   
    2 - wasd (gaming) 
    3 - arrow 
@@ -48,8 +48,7 @@ Joystick and Rotary Encoder Functions:
    6 - Window arrows (minimising, maximising and sorting out the positions of tabs.
    
 
-   Rotary encoder menu
-   
+   Rotary encoder menu:
    1 - vertical scroll  
    2 - horizontal scroll 
    3 - video forward/rewind   
