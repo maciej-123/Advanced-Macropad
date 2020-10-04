@@ -35,29 +35,7 @@ The 12 pages include:
 -Generic controls such as Ctrl+C and Ctrl+V as well as Ctrl+W and Ctrl+Shift+T for opening and closing tabs in google chrome.
 
 
-
-
 Joystick and Rotary Encoder Functions:
-
-   Joystick menu:  
-   1 - mouse   
-   2 - wasd (gaming) 
-   3 - arrow 
-   4 - 2D scroll (vertical and horizontal)   
-   5 - Zoom and undo/redo   
-   6 - Window arrows (minimising, maximising and sorting out the positions of tabs.
-   
-
-   Rotary encoder menu:
-   1 - vertical scroll  
-   2 - horizontal scroll 
-   3 - video forward/rewind   
-   4 - zoom in/out   
-   5 - undo/redo   
-   6 - mouse left right  
-   7 - mouse up down    
-   8 - volume  
-   9 - brightness
    
    joystick menu
    1 - mouse
