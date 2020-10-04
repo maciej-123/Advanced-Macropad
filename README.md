@@ -37,20 +37,13 @@ The 12 pages include:
 
 Joystick and Rotary Encoder Functions:
    
-   joystick menu
-   
-   1 - mouse
-   
-   2 - wasd
-   
-   3 - arrow
-   
-   4 - 2D scroll
-   
-   5 - Zoom and undo/redo
-   
-   6 - Window arrows
-   
+   joystick menu   
+   1 - mouse   
+   2 - wasd   
+   3 - arrow   
+   4 - 2D scroll   
+   5 - Zoom and undo/redo   
+   6 - Window arrows  
    7 - Home Del PagDown End (Space Engineers x and y axis block rotation)
    
    
